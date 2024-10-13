@@ -6,6 +6,6 @@ def split(email):
 
 
 email = sys.argv[1]
-list = split(email)
-print(f"Your username is {list[0]}.")
-print(f"Your domain is {list[1]}.")
+username, domain = split(email)
+print(f"Your username is {username}.")
+print(f"Your domain is {domain}.")
