@@ -1,2 +1,2 @@
 # Email Slicer
- Email slicer.
+An email slicer.
